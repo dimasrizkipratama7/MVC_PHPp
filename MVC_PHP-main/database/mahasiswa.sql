@@ -41,9 +41,9 @@ CREATE TABLE `mahasiswa` (
 --
 
 INSERT INTO `mahasiswa` (`id`, `nim`, `nama`, `created_at`, `deleted_at`, `flag_hapus`) VALUES
-(14, 'A11.2023.15477', 'Fauzan Arif Prayogi', '2025-03-16 06:12:25', NULL, 0),
-(15, '123', 'ujang', '2025-03-16 06:12:36', NULL, 0),
-(16, '234', 'bagas', '2025-03-16 06:12:55', '2025-03-16 06:13:11', 1);
+(14, 'A11.2023.14944', 'Dimas Rizki Pratama', '2025-03-16 06:12:25', NULL, 0),
+(15, '123', 'ADI', '2025-03-16 06:12:36', NULL, 0),
+(16, '234', 'SELVI', '2025-03-16 06:12:55', '2025-03-16 06:13:11', 1);
 
 --
 -- Indexes for dumped tables
